@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" contents="text/html; charset=uft-8"/>
+<link rel="stylesheet" href="CSS/Estilo1.css">
+</head>
+<body>
+
+<div class="page">
+
+<div>
+    <div class="header">SERGIO RAMOS</div>
+    
+    <div class="menu">
+	<a href="index.html">Inicio</a>
+	<a href="Biografia.html">Biografia</a>
+	<a href="Trofeos.html">Trofeos</a>
+	<a href="Yeguada.html">Yeguada</a>
+    </div>
+</div>
+    
+</div>
+</body>
+</html> 
